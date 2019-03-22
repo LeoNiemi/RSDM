@@ -11,15 +11,12 @@
             </respStmt>
             <respStmt>
               <persName role="lyricist">W.A. Koskenniemi</persName>
-            </respStmt>
-            <respStmt>
               <persName role="lyricist">swe. Joel Rudnt</persName>
-            </respStmt>
-            <respStmt>
               <persName role="lyricist">eng. unknown</persName>
             </respStmt>
           </titleStmt>
           <pubStmt/>
+          <sourceDesc></sourceDesc>
         </fileDesc>
         <encodingDesc xml:id="encodingdesc-0000001391460262">
             <appInfo xml:id="appinfo-0000000158474358">
@@ -31,6 +28,13 @@
         </encodingDesc>
     </meiHead>
     <music>
+        <performance xml:id="performance">
+          <recording begin="00:00:00.00" end="00:01:07:00" betype="time">
+          <avFile mimeType="audio/mpeg-3"
+          target="https://drive.google.com/file/d/1iI35BIII2M0JY6pfJXNQLyOJFS8IrAVp/view?usp=sharing">
+          </avFile>
+          </recording>
+        </performance>
         <body>
             <mdiv xml:id="mdiv-0000000475691350">
                 <score xml:id="score-0000000397572124">
@@ -43,16 +47,6 @@
                                 </staffDef>
                             </staffGrp>
                         </staffGrp>
-                        <pgFoot>
-              <anchoredText x="129" y="244">
-                <rend fontsize="11" valign="bottom">Source: "Japanese Popular Music: a collection of
-                  the popular music of Japan rendered in to the<lb/>staff notation", by Y. Nagai and
-                  K. Kobatake, 2nd ed., Osaka, S. Miki &amp; Co., 1892, pp. 96-97. Transcribed into
-                  Finale music notation by Tom Potter, 2005. See http://www.daisyfield.com/music/
-                  Lyrics added by Karen Tanaka and Michael Good, 2006. See
-                  http://www.recordare.com/</rend>
-              </anchoredText>
-              </pgFoot>
                     </scoreDef>
                     <section xml:id="section-0000000950087362">
                         <pb xml:id="pb-0000000740111970" />
@@ -1120,7 +1114,7 @@
                             <tie xml:id="tie-0000000667672391" startid="#note-0000000931987521" endid="#note-0000000756992516" />
                             <tie xml:id="tie-0000000045244112" startid="#note-0000001457812940" endid="#note-0000000708686492" />
                         </measure>
-                        <sb xml:id="sb-0000000962749039" />
+                        <sb xml:id="sb-0000000962749039"/>
                         <measure xml:id="measure-0000001041966665" n="21">
                             <staff xml:id="staff-0000001870716322" n="1" visible="true">
                                 <layer xml:id="layer-0000001404676579" n="1">
@@ -1182,21 +1176,6 @@
                                     <note xml:id="note-0000001307221433" dur="4" oct="2" pname="b" color="#000000" stem.dir="down" accid.ges="f" />
                                 </layer>
                             </staff>
-                            <dir xml:id="dir-0000000050933736" staff="1" startid="#note-0000001983907577">
-                                <rend xml:id="rend-0000001166470839" fontfam="FreeSerif" fontstyle="italic" fontweight="normal">2. Stig högt, vårt land, som du ur natt dig höjde.</rend>
-                                <rend xml:id="rend-0000000702555172" fontfam="FreeSerif" fontstyle="italic" fontweight="normal">Den dag dig väntar, fritt och öppet möt</rend>
-                                <rend xml:id="rend-0000001771154908" fontfam="FreeSerif" fontstyle="italic" fontweight="normal">med samma kraft, med samma mod, du röjde, när träldomsoket du sönderbröt.</rend>
-                                <rend xml:id="rend-0000001454128681" fontfam="FreeSerif" fontstyle="italic" fontweight="normal">Förtrycket aldrig dig till jorden böjde.</rend>
-                                <rend xml:id="rend-0000000267046711" fontfam="FreeSerif" fontstyle="italic" fontweight="normal">Ditt verk dig väntar, o fosterland.</rend>
-                            </dir>
-                            <dir xml:id="dir-0000000728692755" staff="1" startid="#note-0000000451617788">
-                                <rend xml:id="rend-0000000041636191" fontfam="FreeSerif" fontstyle="normal" fontweight="normal">1. Oh, Finland, Look! The day at last is dawning!</rend>
-                                <rend xml:id="rend-0000000948053274" fontfam="FreeSerif" fontstyle="normal" fontweight="normal">Your night of danger now is driv'n away.</rend>
-                                <rend xml:id="rend-0000002036038004" fontfam="FreeSerif" fontstyle="normal" fontweight="normal">The morning skylark in the sunlight soaring</rend>
-                                <rend xml:id="rend-0000001583813077" fontfam="FreeSerif" fontstyle="normal" fontweight="normal">seems Heaven's song came to greet this day.</rend>
-                                <rend xml:id="rend-0000001744505478" fontfam="FreeSerif" fontstyle="normal" fontweight="normal">As night time pow'rs are banished by the morning,</rend>
-                                <rend xml:id="rend-0000000646996464" fontfam="FreeSerif" fontstyle="normal" fontweight="normal">a new day dawns in our native land!</rend>
-                            </dir>
                         </measure>
                         <measure xml:id="measure-0000001549949650" n="22">
                             <staff xml:id="staff-0000001748677951" n="1">
@@ -1301,14 +1280,6 @@
                                     <note xml:id="note-0000000899033704" dur="8" oct="3" pname="f" color="#000000" stem.dir="down" />
                                 </layer>
                             </staff>
-                            <dir xml:id="dir-0000001291158774" staff="1" startid="#note-0000000498471768">
-                                <rend xml:id="rend-0000000977110396" fontfam="FreeSerif" fontstyle="normal" fontweight="normal">2. Oh, Finland, rise and lift your head to glory</rend>
-                                <rend xml:id="rend-0000000764718397" fontfam="FreeSerif" fontstyle="normal" fontweight="normal">and proudly wear your mem'ries shining crown.</rend>
-                                <rend xml:id="rend-0000001454724967" fontfam="FreeSerif" fontstyle="normal" fontweight="normal">Oh, Finland, rise and tell to all the story</rend>
-                                <rend xml:id="rend-0000001007150640" fontfam="FreeSerif" fontstyle="normal" fontweight="normal">of how the yoke of slav'ry was thrown.</rend>
-                                <rend xml:id="rend-0000001214838992" fontfam="FreeSerif" fontstyle="normal" fontweight="normal">And since you would not bend beneath opression,</rend>
-                                <rend xml:id="rend-0000002147213321" fontfam="FreeSerif" fontstyle="normal" fontweight="normal">this new day dawns for our native land!</rend>
-                            </dir>
                             <slur xml:id="slur-0000000783303912" startid="#note-0000000498471768" endid="#note-0000001421360889" color="#000000" />
                             <tie xml:id="tie-0000001475560666" startid="#note-0000000836292716" endid="#note-0000000215008744" />
                             <tie xml:id="tie-0000000389407486" startid="#note-0000001347052401" endid="#note-0000000747790231" />
@@ -1347,7 +1318,7 @@
                             <tie xml:id="tie-0000000571833366" startid="#note-0000001055282843" endid="#note-0000001682855892" />
                         </measure>
                         <scoreDef xml:id="scoredef-0000001374585140" />
-                        <measure xml:id="measure-0000001457558652" right="end" n="25">
+                        <measure xml:id="measure-0000001457558652" right="rptend" n="25">
                             <staff xml:id="staff-0000001087253504" n="1">
                                 <layer xml:id="layer-0000000490540046" n="1">
                                     <note xml:id="note-0000000203855728" dur="4" oct="4" pname="f" color="#000000" stem.dir="up" />
@@ -1365,6 +1336,38 @@
                                 </layer>
                             </staff>
                         </measure>
+                    </section>
+                    <section>
+                        <div xml:lan="sw" n="1" type="column">
+                          <lg fontstyle="italics">
+                            <l>2. Stig högt, vårt land, som du ur natt dig höjde.</l>
+                            <l>Den dag dig väntar, fritt och öppet möt</l>
+                            <l>med samma kraft, med samma mod, du röjde,</l>
+                            <l>när träldomsoket du sönderbröt.</l>
+                            <l>Förtrycket aldrig dig till jorden böjde.</l>
+                            <l>Ditt verk dig väntar, o fosterland.</l>
+                          </lg>
+                        </div>
+                        <div xml:lan="en" n="2" type="verse">
+                          <lg>
+                            <l>1. Oh, Finland, Look! The day at last is dawning!</l>
+                            <l>Your night of danger now is driv'n away.</l>
+                            <l>The morning skylark in the sunlight soaring</l>
+                            <l>seems Heaven's song came to greet this day.</l>
+                            <l>As night time pow'rs are banished by the morning,</l>
+                            <l>a new day dawns in our native land!</l>
+                          </lg>
+                        </div>
+                        <div xml:lan="en" n="3" type="verse">
+                          <lg>
+                            <l>2. Oh, Finland, rise and lift your head to glory</l>
+                            <l>Yand proudly wear your mem'ries shining crown.</l>
+                            <l>Oh, Finland, rise and tell to all the story</l>
+                            <l>of how the yoke of slav'ry was thrown.</l>
+                            <l>And since you would not bend beneath opression,</l>
+                            <l>this new day dawns for our native land!</l>
+                          </lg>
+                        </div>
                     </section>
                 </score>
             </mdiv>
