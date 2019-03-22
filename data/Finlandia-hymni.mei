@@ -59,7 +59,9 @@
                                         <verse xml:id="verse-0000001203089628" color="#000000" n="1">
                                             <syl xml:id="syl-0000002034692228">Oi,</syl>
                                             <choise>
-                                            <syl xml:id="syl-1000002034692228" fontstyle="italic">O,</syl>
+                                              <add>
+                                                <syl xml:id="syl-1000002034692228" fontstyle="italic">O,</syl>
+                                              </add>
                                             </choise>
                                         </verse>
                                         <verse xml:id="verse-0000001198375115" color="#000000" n="2">
