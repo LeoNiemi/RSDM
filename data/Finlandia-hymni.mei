@@ -1336,37 +1336,20 @@
                                 </layer>
                             </staff>
                         </measure>
-                    </section>
-                    <section>
-                        <div xml:lan="sw" n="1" type="column">
-                          <lg fontstyle="italics">
-                            <l>2. Stig högt, vårt land, som du ur natt dig höjde.</l>
-                            <l>Den dag dig väntar, fritt och öppet möt</l>
-                            <l>med samma kraft, med samma mod, du röjde,</l>
-                            <l>när träldomsoket du sönderbröt.</l>
-                            <l>Förtrycket aldrig dig till jorden böjde.</l>
-                            <l>Ditt verk dig väntar, o fosterland.</l>
-                          </lg>
+                        <div n="2" type="verse">
+                          <p>2. Stig högt, vårt land, som du ur natt dig höjde.<lb/>Den dag dig väntar, fritt och öppet möt<lb/>
+                            med samma kraft, med samma mod, du röjde,<lb/>när träldomsoket du sönderbröt.<lb/>Förtrycket aldrig dig till jorden böjde.
+                          <lb/>Ditt verk dig väntar, o fosterland.</p>
                         </div>
-                        <div xml:lan="en" n="2" type="verse">
-                          <lg>
-                            <l>1. Oh, Finland, Look! The day at last is dawning!</l>
-                            <l>Your night of danger now is driv'n away.</l>
-                            <l>The morning skylark in the sunlight soaring</l>
-                            <l>seems Heaven's song came to greet this day.</l>
-                            <l>As night time pow'rs are banished by the morning,</l>
-                            <l>a new day dawns in our native land!</l>
-                          </lg>
+                        <div n="3" type="verse">
+                          <p>1. Oh, Finland, Look! The day at last is dawning!<lb/>Your night of danger now is driv'n away.
+                            <lb/>The morning skylark in the sunlight soaring<lb/>seems Heaven's song came to greet this day.
+                            <lb/>As night time pow'rs are banished by the morning,<lb/></p>
                         </div>
-                        <div xml:lan="en" n="3" type="verse">
-                          <lg>
-                            <l>2. Oh, Finland, rise and lift your head to glory</l>
-                            <l>Yand proudly wear your mem'ries shining crown.</l>
-                            <l>Oh, Finland, rise and tell to all the story</l>
-                            <l>of how the yoke of slav'ry was thrown.</l>
-                            <l>And since you would not bend beneath opression,</l>
-                            <l>this new day dawns for our native land!</l>
-                          </lg>
+                        <div n="4" type="verse">
+                          <p>2. Oh, Finland, rise and lift your head to glory<lb/>and proudly wear your mem'ries shining crown.
+                            <lb/>Oh, Finland, rise and tell to all the story<lb/>of how the yoke of slav'ry was thrown.
+                            <lb/>And since you would not bend beneath opression,<lb/>this new day dawns for our native land!</p>
                         </div>
                     </section>
                 </score>
