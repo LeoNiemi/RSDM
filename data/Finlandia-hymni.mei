@@ -58,6 +58,9 @@
                                     <note xml:id="note-0000001387575538" dur="4" oct="4" pname="a" color="#000000" stem.dir="up">
                                         <verse xml:id="verse-0000001203089628" color="#000000" n="1">
                                             <syl xml:id="syl-0000002034692228">Oi,</syl>
+                                            <choise>
+                                            <syl xml:id="syl-1000002034692228" fontstyle="italic">O,</syl>
+                                            </choise>
                                         </verse>
                                         <verse xml:id="verse-0000001198375115" color="#000000" n="2">
                                             <syl xml:id="syl-0000000239400641">Oi</syl>
