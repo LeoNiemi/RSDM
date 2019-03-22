@@ -65,9 +65,6 @@
                                         <verse xml:id="verse-0000001198375115" color="#000000" n="2">
                                             <syl xml:id="syl-0000000239400641">Oi</syl>
                                         </verse>
-                                        <verse xml:id="verse-0000001913696219" color="#000000" n="3" fontstyle="italic">
-                                            <syl xml:id="syl-0000001127789800">O</syl>
-                                        </verse>
                                     </note>
                                     <note xml:id="note-0000001635156422" dur="4" oct="4" pname="g" color="#000000" stem.dir="up">
                                           <verse xml:id="verse-0000000935826060" color="#000000" n="1">
