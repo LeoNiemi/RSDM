@@ -19,14 +19,16 @@
             </respStmt>
           </titleStmt>
           <editionStmt>
-            <edition>Transcribed from https://kareliakuoro.files.wordpress.com/2013/04/finlandia.pdf.
+            <edition>
               Swedish and English lyrics excluded from Verovio rendition and added as separate text at the bottom of this file.
-              Roman numeral chord analysis created with music21. Audio rendition based on MIDI found in
-              https://drive.google.com/file/d/1iI35BIII2M0JY6pfJXNQLyOJFS8IrAVp/view?usp=sharing.
+              The title of the piece was expanded to mention Finlandia Op. 26.
+              The birth and death year of Jean Sibelius was added.
+              Roman numeral chord analysis created with music21.
+              Audio rendition based on MIDI found in https://drive.google.com/file/d/1iI35BIII2M0JY6pfJXNQLyOJFS8IrAVp/view?usp=sharing.
             </edition>
           </editionStmt>
           <pubStmt/>
-          <sourceDesc></sourceDesc>
+          <sourceDesc>Transcribed from https://kareliakuoro.files.wordpress.com/2013/04/finlandia.pdf.</sourceDesc>
         </fileDesc>
         <encodingDesc xml:id="encodingdesc-0000001391460262">
             <appInfo xml:id="appinfo-0000000158474358">
@@ -39,7 +41,7 @@
     </meiHead>
     <music>
         <performance xml:id="performance">
-          <recording begin="00:00:00.00" end="00:01:07:00" betype="time">
+          <recording begin="00:00:00.00" end="00:01:09:00" betype="time">
           <avFile mimeType="audio/mpeg-3"
           target="https://drive.google.com/file/d/1iI35BIII2M0JY6pfJXNQLyOJFS8IrAVp/view?usp=sharing">
           </avFile>
